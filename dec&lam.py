@@ -1,4 +1,4 @@
-# def apply_twice(func, arg):
+/.# def apply_twice(func, arg):
 #     return func(func(func(arg)))
 
 # def add_number(x):
